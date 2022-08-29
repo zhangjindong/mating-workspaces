@@ -1,7 +1,7 @@
-# ui-list-viewer
+# @mating/ui-list-viewer
 
-[![NPM version](https://img.shields.io/npm/v/ui-list-viewer.svg?style=flat)](https://npmjs.org/package/ui-list-viewer)
-[![NPM downloads](http://img.shields.io/npm/dm/ui-list-viewer.svg?style=flat)](https://npmjs.org/package/ui-list-viewer)
+[![NPM version](https://img.shields.io/npm/v/@mating/ui-list-viewer.svg?style=flat)](https://npmjs.org/package/@mating/ui-list-viewer)
+[![NPM downloads](http://img.shields.io/npm/dm/@mating/ui-list-viewer.svg?style=flat)](https://npmjs.org/package/@mating/ui-list-viewer)
 
 ## Install
 

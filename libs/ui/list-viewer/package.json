@@ -1,5 +1,5 @@
 {
-  "name": "ui-list-viewer",
+  "name": "@mating/ui-list-viewer",
   "version": "0.0.1",
   "description": "",
   "module": "dist/esm/index.js",

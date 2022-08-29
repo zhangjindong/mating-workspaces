@@ -1,7 +1,7 @@
-# ui-image-viewer
+# @mating/ui-image-viewer
 
-[![NPM version](https://img.shields.io/npm/v/ui-image-viewer.svg?style=flat)](https://npmjs.org/package/ui-image-viewer)
-[![NPM downloads](http://img.shields.io/npm/dm/ui-image-viewer.svg?style=flat)](https://npmjs.org/package/ui-image-viewer)
+[![NPM version](https://img.shields.io/npm/v/@mating/ui-image-viewer.svg?style=flat)](https://npmjs.org/package/@mating/ui-image-viewer)
+[![NPM downloads](http://img.shields.io/npm/dm/@mating/ui-image-viewer.svg?style=flat)](https://npmjs.org/package/@mating/ui-image-viewer)
 
 ## Install
 

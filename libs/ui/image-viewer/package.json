@@ -1,5 +1,5 @@
 {
-  "name": "ui-image-viewer",
+  "name": "@mating/ui-image-viewer",
   "version": "0.0.1",
   "description": "",
   "module": "dist/esm/index.js",

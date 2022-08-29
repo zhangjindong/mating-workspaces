@@ -1,7 +1,7 @@
 import { Layout, Row, Typography } from 'antd';
 import React from 'react';
 import styles from './Guide.less';
-
+import imageViewer from '@mating/ui-image-viewer';
 interface Props {
   name: string;
 }
@@ -13,7 +13,7 @@ const Guide: React.FC<Props> = (props) => {
     <Layout>
       <Row>
         <Typography.Title level={3} className={styles.title}>
-          欢迎使用 <strong>{name}</strong> ！
+          欢迎使用 <strong>{name}</strong> ！{imageViewer}
         </Typography.Title>
       </Row>
     </Layout>
