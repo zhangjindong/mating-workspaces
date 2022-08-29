@@ -4,7 +4,16 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "build": "npx nx run-many --target=build",
+    "start": "npx nx run-many --target=start",
+    "test": "npx nx run-many --target=test"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  },
   "devDependencies": {
-    "lerna": "^5.4.3"
+    "lerna": "^5.4.3",
+    "nx": "14.5.10"
   }
 }
