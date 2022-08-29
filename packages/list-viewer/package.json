@@ -1,4 +1,5 @@
 {
+  "name": "list-viewer",
   "private": true,
   "author":"zhangjindong <jindong.zhang@biomind.ai>",
   "scripts": {
